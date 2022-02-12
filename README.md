@@ -5,10 +5,7 @@
 - 🌱 I’m studying to get the Master's Degree in Computer Engeneering.
 I am currently learning advanced computer engeneering subjects, at University of Rome Tor Vergata, so i am often busy on projects.
 Current main concerns are: 
-Machine Learning,
-Satellite Remote Sensing and Image Processing,  
-Performance modeling of Computer Systems,
-Probability and Statistics. 
+Machine Learning, Satellite Remote Sensing and Image Processing, Performance modeling of Computer Systems, Probability and Statistics. 
 If you want to see my stuff you can just look at my repos! 
 
 - 📫 How to reach me: Just send an email at gimbors95@gmail.com
