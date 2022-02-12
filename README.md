@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently learning advanced computer engeneering stuff at Master's University of Rome Tor Vergata, so i am often busy on projects.
 Current main concerns are: 
-Performance modeling of Computer Systems,
-Satellite Remote Sensing and Image Processing, 
+\nPerformance modeling of Computer Systems,
+\nSatellite Remote Sensing and Image Processing, 
 Machine Learning, 
 Probability and Statistics. 
-If you want to see my stuff you can Just look at my repos! 
+If you want to see my work you can Just look at my repos! 
 
 - 📫 How to reach me: Just send an email at gimbors95@gmail.com
 
