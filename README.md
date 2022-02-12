@@ -2,13 +2,14 @@
 
 - 👀 I’m interested in many subjects, mainly on scientific fields, but as a good nerd i really enjoy every creative stuff.
 
-- 🌱 I’m currently learning advanced computer engeneering stuff at Master's University of Rome Tor Vergata, so i am often busy on projects.
+- 🌱 I’m studying to get the Master's Degree in Computer Engeneering.
+I am currently learning advanced computer engeneering subjects, at University of Rome Tor Vergata, so i am often busy on projects.
 Current main concerns are: 
-\nPerformance modeling of Computer Systems,
-\nSatellite Remote Sensing and Image Processing, 
-Machine Learning, 
+Machine Learning,
+Satellite Remote Sensing and Image Processing,  
+Performance modeling of Computer Systems,
 Probability and Statistics. 
-If you want to see my work you can Just look at my repos! 
+If you want to see my stuff you can just look at my repos! 
 
 - 📫 How to reach me: Just send an email at gimbors95@gmail.com
 
